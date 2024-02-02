@@ -1,2 +1,5 @@
-# bioSite
-This will be the home to my main Biography site for CSD-340
+# csd-340
+# CSD 340 Web Development with HTML and CSS
+## Contributors 
+* Professor Darren Osier
+* Nicholas Bushnell 
